@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Britains call to repentance: or, A seasonable exhortation, to a speedy reformation and turning from these crying sins of our age as swearing and prophaning the name of God, and making a sport and game of his sacred Word, and ordinances, lest his vvrath should wax hot against us, and instead of shaking his rod, like a father, he should bring upon us that desolutiou [sic] which the poor island of Jamaco now groans under. Therefore let us speedily repent, for what can we expect, since we have sinned as well as they? Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41876</idno>
+            <idno type="STC">Wing G1665A</idno>
+            <idno type="STC">ESTC R219884</idno>
+            <idno type="EEBO-CITATION">99831331</idno>
+            <idno type="PROQUEST">99831331</idno>
+            <idno type="VID">35794</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41876)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35794)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2049:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Britains call to repentance: or, A seasonable exhortation, to a speedy reformation and turning from these crying sins of our age as swearing and prophaning the name of God, and making a sport and game of his sacred Word, and ordinances, lest his vvrath should wax hot against us, and instead of shaking his rod, like a father, he should bring upon us that desolutiou [sic] which the poor island of Jamaco now groans under. Therefore let us speedily repent, for what can we expect, since we have sinned as well as they? Licensed according to order.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed [by E. Millet,] for P. Brooksby, J. Deacon, J. Blare, and J. Back,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an added illustrated title page which bears the name of E. Millet in the imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Early works to 1800.</term>
+               <term>Jamaica --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35794:1" rendition="simple:additions"/>
+            <p>Great Britains Call TO REPENTANCE:</p>
+            <figure/>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Millet,</hi> for <hi>P. Brooksby, J. Deacon, J. Blare,</hi> and <hi>J. Back.</hi>
+            </p>
+            <pb facs="tcp:35794:2" rendition="simple:additions"/>
+            <pb facs="tcp:35794:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="2 pages">
+               <desc>〈2 pages duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:35794:3"/>
+            <pb facs="tcp:35794:3"/>
+            <p>Great Britains Call TO Repentance: OR, A Seaſonable Exhortation, to a Speedy Reformation and turning from theſe crying Sins of our Age; as Swear<g ref="char:EOLhyphen"/>ing and Prophaning the Name of God, and making a Sport and Game of his Sacred Word, and Ordinances, leſt his VVrath ſhould wax hot againſt us, and inſtead of ſhaking his Rod, like a Fat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, he ſhould bring upon us that Deſolution which the poor Iſland of <hi>Jamaco</hi> now groans under.</p>
+            <p>Therefore let us Speedily Repent, for what can we expect, ſince we have Sinned as well as they?</p>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>P. Brooksby, J. Deacon, J. Blare,</hi> and <hi>J. Back.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="appeal_for_repentance">
+            <pb facs="tcp:35794:4"/>
+            <pb n="3" facs="tcp:35794:4"/>
+            <head>Great Britains Call TO REPENTANCE.</head>
+            <p>MAny and Grievous are the crying Sins of our preſent Age, amongſt which the Prophanation of the Sacred Name of God is not the leaſt: For, Firſt his Name is taken in vain by the abuſe of his Word, in curious and fruitleſs prating of it. Therefore one muſt never talk of Gods Word, but that he may bring ſome Glory to God, and ſome good Edification to Men. As the Apoſtle ſaith, Jude 20. <hi>Edifie one another in your moſt holy Faith</hi> Unleſs this be our Scope, when ever we take Gods Word in our Mouths, to build up one another in God<g ref="char:EOLhyphen"/>lineſs, we pervert the Word of God, and take his Name in vain.</p>
+            <p>
+               <hi>Secondly.</hi> Gods Word is polluted by us, when we ſpeak of his Word in Mockage, after a jeſting and Scoffing manner. As thoſe did of whom <hi>Peter</hi> ſpeaketh, that derided the Doctrine of the laſt judgement: Ho, ſay they,
+<pb n="4" facs="tcp:35794:5"/>
+               <hi>Where is the Promiſe of his coming? For ſince the Fathers fell aſleep, all things continue as they were from the beginning of the Creation.</hi> 2. Pet. 3.4. When will his coming be? As if they ſhould have ſaid, We hear a large diſ<g ref="char:EOLhyphen"/>courſe, and here is much ado among theſe Preachers now a days, about the great and fearful day or Judgement, wherein (as they ſay) a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Men muſt be called to account for their works; but where is this glorious appearance? What danger come h by their terrible threat<g ref="char:EOLhyphen"/>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs? What profit hath any by their large Pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>miſes? And thus becauſe God doth not preſently paſs Sentence, and execute it, by caſting the Wicked into Hell, and by receiving the Godly into the Jo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of Heaven, fooliſh vain Men, that have no Faith, make a Merriment and a Sport to laugh at this Doctrine. So in <hi>Iſaiah,</hi> becauſe he told them of Death, the Athe<g ref="char:EOLhyphen"/>iſts fell to mocking: Come, ſay they, if we muſt dye, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n let us take our Pleaſure while we may: <hi>Let us Eat and Drink,</hi> and be Merry, <hi>for to morrow, Soul and Body, and all muſt came to nothing;</hi> we will ply it while the time ſerveth. And thus theſe Irreligious beaſts caſt off all the Exhortations of the Prophet, by Jeſting and Scoffing.</p>
+            <p>So, many lewd Perſons in theſe days are ready to ab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe the Words of Chriſt, (where he ſaith, <hi>if one give thee a blow on the one Cheek, t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o him the other alſo,</hi> to deride Chriſtians,
+<pb n="5" facs="tcp:35794:5"/>and to diſgrace Chriſtian Patience. Oh ſhame<g ref="char:EOLhyphen"/>leſs Perſons! will not the Reverence of Chriſt ſcare them from the abuſe of ſuch Words, as he with his own Mouth uttered? Theſe be the Words of God, ſpoken and penned by the wiſ<g ref="char:EOLhyphen"/>dom of the Holy Ghoſt, for the direction and inſtruction of his Children; not for every pro<g ref="char:EOLhyphen"/>fane Swa<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> and Drunkard to vomit out of his filthly Mouth, to move laughter with them. And this is a common thing amongſt fan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſti<g ref="char:EOLhyphen"/>cal Companions, that deſire to be thought witty and conceited; that if any place of Scripture ſerve their tu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, to gird or quip one another, or ſuch like purpoſe: They had rather God ſhould loſe his Glory, and Gods Word the Grace and Authority of it, than that they would loſe their Jeſt. And thus that which God appointed to edify their Souls in Godli<g ref="char:EOLhyphen"/>neſs, they pervert to ſtir up themſelves and others, to Fooliſh, Wicked and Prophane Laughter.</p>
+            <p>So thirdly, The Word of God is abuſed in a moſt moſt groſs and notorious manner, when one brings it in the defence of any Sin, Error, or Hereſie. Which is to preſume to wreſt Gods weapons out of his Hands, as it were, to wound him with his own Sword. This is as grevious an abuſe of the Sacred Word of God, and as Hu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tful and Miſchievous as Swearing. Thus the Devil did moſt damnably profane Gods Word, that it might ſeem to agree with his devilliſh Temptations.</p>
+            <pb n="6" facs="tcp:35794:6"/>
+            <p> So, let wicked and volumptuous Livers, that ſpend all their time and labour in purſuing vain and fond Sports and Games, and ſuch foo<g ref="char:EOLhyphen"/>liſh and fleſhly delights, as make them no whit more Serviceable to God, or the Common<g ref="char:EOLhyphen"/>wealth, or apt to do good to their own Souls and Bodies, or any Mans elſe: Let ſuch men (I ſay) be reproved, and told, that this kind of living is not allowable, it will not hold out before God; Man was made to Glorify God, and to do good unto Men, not to ſeek pleaſure to his Fleſh, and live idely in the World; and therefore they muſt repent and amend; you ſhall have an excuſe ſtrait, Gods Word muſt be brought as a defence; they do not break Gods Commandments without warrant out of tte Scripture, if you will believe them. What (ſay they) will you have a Man live without Delight? Do not you allow Recreation? Why the Scripture doth afford a Man Recreation; and then a number of places muſt be brought in for Recreation, to maintain their volup<g ref="char:EOLhyphen"/>tuouſneſs. But, (vain Man) doth not the Scrip<g ref="char:EOLhyphen"/>ture command a vocation, and the Recreation as an help to further us in it? Now if one may ask you that ſtand ſo much for Recreation, what is your Occupation? What ſore I ravel is it that wearieth your Body? VVhat earneſt ſtudy troubleth your Brain, that you muſt have ſo much refreſhing, and ſo much Recreation? It muſt be ſome very painful Labour, that
+<pb n="7" facs="tcp:35794:6"/>needeth ſo much reſt to make you able to per<g ref="char:EOLhyphen"/>form it. It is a ſore labour indeed, for it is the ſervice of Luſt and the Devil, two hard Maſters. But this turning of Recreation into a Vocation, or a Vexation rather, it is not allowable by Gods Word; how dareſt thou then be ſo im<g ref="char:EOLhyphen"/>pudently audacious, as to rob God of his trea<g ref="char:EOLhyphen"/>ſure to maintain thy filthy Luſt, and defile his Holy Word, by defending thy unholy practice.</p>
+            <p>So likewiſe come to a Covetuous Perſon, re<g ref="char:EOLhyphen"/>buke him for his Cruelty and Oppreſſion, ſhew him that the love of the World is enmity to God, and that Covetuouſneſs is Idolatry, then comes in this place of Scripture, which muſt ſalve all: What, hath not God commanded a Man to labour in his calling? Doth not God ſay, <hi>He is worſe than an Infidel that provideth not for his Family?</hi> And ſo all muſt go under the good name of Husbandry and Thrift, and Providing for his Family. But conſider thou that ſtandeſt thus for thy labour, God will have thee labour, but not to ſerve thy ſelf, and thine own Luſts in thy labour; take pains in thy call<g ref="char:EOLhyphen"/>ing, but hurt not thy Neighbour by it, provide for thy Children, and lay up, but withall lay up thy treaſure in Heaven eſpecially, and pro<g ref="char:EOLhyphen"/>vide to bring them up in the fear of God in ſome Chriſtian Vocation. Firſt provide that they may be Chriſtians, and then thou haſt well provided for them. Store up mercifull works; for if we be Righteous, Merciful, and Lend,
+<pb n="8" facs="tcp:35794:7"/>our Seed ſhall injoy the bleſſing. Thus God will have one labour with Godlineſs, and pro<g ref="char:EOLhyphen"/>vide ſo for his Children, as that he muſt alſo provide for his own Soul.</p>
+            <p>So come to Angry and Paſſionate Perſons, they likewiſe can have ſomething to ſay for their ſins, and that out of Gods Word, when the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have broken out into <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ooliſh and unadviſed Paſſions, tell them, this is nought. <hi>Anger re<g ref="char:EOLhyphen"/>ſteth in the boſome of Fuels,</hi> and <hi>the wrath of Man fulfilleth not the Law of God.</hi> Eccleſ. 7.11. Oh, but I pray you doth not St. <hi>Paul</hi> ſay, <hi>Be angry and ſin not?</hi> James 1.20. It is true. But it thou wilt be angry without ſin, be angry firſt with thine own ſin, begin at home, and condemn the folly that is in thine own Soul, or thine anger is not Holy and Spiritual, but Devilliſh, Fleſhly, and Carnal. So, almoſt in all other ſins, there is ſcarce any ſin ſo bad, but ungodly Perſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns will ſtand in defence of it; and if they can ſnatch a few words out of the Scripture, and turn them violently from the true ſence thereof unto their own luſt, they count this a matter of great VVittineſs; but in truth it is a great VVickedneſs, and a dam<g ref="char:EOLhyphen"/>nable profaning of the Name of God. When one can wreſt and hale together many places, and ſay much for his ſin, it is not a Note of more Wit, but of the more acquaintance with the Devil; for their Tongues is ſet on fire of Hell, and blown by the ſtinking breath of Satan.
+<pb n="9" facs="tcp:35794:7"/>And when they have ſaid all they can, they have made their ſſn more grievous, their heart more hard, and themſelves more curſed, in that they have done nothing all the while, but diſho<g ref="char:EOLhyphen"/>noured God, to make him a pattern of wicked<g ref="char:EOLhyphen"/>neſs, and his Word a Sword for Satan.</p>
+            <p>Now the beſt Medicine to preſerve us from all ſins and abuſes of Gods Titles, is ſet down in <hi>Deut.</hi> 28.58. <hi>Fear the Glorious and Fearful name of the Lord thy God;</hi> fear it ſo, that you name it not, nor think of it, but with great Reverence. For, if one be audacious to take Gods name in his Mouth, without fear and due regard, God will lay plagues upon him, and thoſe not ſho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and ſlight, but ſore and grievous, of long continuance and great du<g ref="char:EOLhyphen"/>rance; but if one tremble and fear before the Lord, he ſhall never abuſe his name.</p>
+         </div>
+         <div type="ballad">
+            <pb n="10" facs="tcp:35794:8"/>
+            <head>The Pious Chriſtians Mournful Lamentation: In a Copy of Verſes on the Sins of this Preſent Age.</head>
+            <opener>Tune of <hi>Troy Town.</hi>
+            </opener>
+            <lg>
+               <l>MY thoughts are in Confuſion hurl'd,</l>
+               <l>mine Eyes like Chriſtial Fountains flow,</l>
+               <l>To ſee the moſt ungrateful World,</l>
+               <l>who will not here her Duty know,</l>
+               <l>But in a ſinful courſe run on,</l>
+               <l>Againſt the Laws of God and Man,</l>
+            </lg>
+            <lg>
+               <l>The ten Commandments Men break;</l>
+               <l>nay, ſport and droll upon the ſame,</l>
+               <l>But thoſe that do theſe Meaſures take</l>
+               <l>let them repent and bluſh for ſhame,</l>
+               <l>It is not ſafe th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to deride</l>
+               <l>That word by which we muſt he try'd.</l>
+            </lg>
+            <lg>
+               <l>Some makes their bags of Gold their God</l>
+               <l>and own no other Deity</l>
+               <pb n="11" facs="tcp:35794:8"/>
+               <l> And while the Lord he ſhakes his Rod,</l>
+               <l>they ſhut their Eyes and will not ſee,</l>
+               <l>But violates that Righteous Law,</l>
+               <l>Which ſhould keep all the World in aw.</l>
+            </lg>
+            <lg>
+               <l>Some do profane Gods holy Name,</l>
+               <l>and others break the Sabbath day,</l>
+               <l>And ſome with blood their Conſcience ſtain</l>
+               <l>alas! alas! what ſhall we ſay?</l>
+               <l>Theſe ſins do for loud vengeance cry,</l>
+               <l>To that great God who ſits on high.</l>
+            </lg>
+            <lg>
+               <l>Young Gallants ſcoff at ſober Men,</l>
+               <l>and likewiſe pure Religion here,</l>
+               <l>But oh! how will they tremble when;</l>
+               <l>before their God they ſhall appear?</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Therefore this day repent with ſpeed,</hi>
+                  </l>
+                  <l>
+                     <hi>For ſure we never had more need.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Our crying ſins have been the cauſe,</l>
+               <l>of all the troubles of the land;</l>
+               <l>Yet ſtill againſt Gods Righteous Laws,</l>
+               <l>we do in ſad Rebellion ſtand;</l>
+               <l>
+                  <hi>O let us now Repent with ſpeed,</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>For ſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Thus God which ſits Enthron'd above</l>
+               <l>hath many ſigns and wonders ſent,</l>
+               <pb n="12" facs="tcp:35794:9"/>
+               <l> As careful Meſſengers of Love,</l>
+               <l>to call the Nations to repent;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>O let it then be done with ſpeed,</hi>
+                  </l>
+                  <l>
+                     <hi>For ſure, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Lord keep us from that diſmal ſtate,</l>
+               <l>that ſudden frightful ſad ſurpriſe,</l>
+               <l>Which poor <hi>Jamaco</hi> felt of late,</l>
+               <l>which now in deſolation lies;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>O let us then Repent with ſpeed,</hi>
+                  </l>
+                  <l>
+                     <hi>For ſure, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>While they were in there ſinful Mirth</l>
+               <l>and did there wanton Pleaſures take;</l>
+               <l>The vaſt Foundations of Earth,</l>
+               <l>the Lords Almighty hand did ſhake;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Therefore let us Repent with ſpeed,</hi>
+                  </l>
+                  <l>
+                     <hi>For ſure, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>While lofty Buildings down did fall,</l>
+               <l>to ſave their lives poor hearts did ſtrive,</l>
+               <l>Yet ſome was daſht in pieces ſmall,</l>
+               <l>and others ſwallowed up alive:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let us therefore Repent with ſpeed,</hi>
+                  </l>
+                  <l>
+                     <hi>For ſure, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>We felt the Symtoms of the ſame,</l>
+               <l>altho no harm at all was done;</l>
+               <pb n="13" facs="tcp:35794:9"/>
+               <l> O let us praiſe Gods Holy Name,</l>
+               <l>and let out Eyes like Fountains run,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With true Repenting Tears with ſpeed,</hi>
+                  </l>
+                  <l>
+                     <hi>For ſure, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Let us with thankful heart expreſs,</l>
+               <l>his tender mercies Night and Day,</l>
+               <l>For we, alas, muſt need confeſs,</l>
+               <l>that we have ſinn'd as well as they;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Let us therefore Repent with ſpeed,</hi>
+                  </l>
+                  <l>
+                     <hi>For ſure, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>How Good and Gracious is our God,</l>
+               <l>to we poor Mortals here below:</l>
+               <l>He like a Father ſhakes his Rod,</l>
+               <l>yet loath he is to ſtrike the blow,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>O let us then Repent with ſpeed,</hi>
+                  </l>
+                  <l>
+                     <hi>For ſure, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>To puniſh us our God is loath,</l>
+               <l>in hopes we will in time return,</l>
+               <l>Yet who can ſtand before his wrath,</l>
+               <l>which will like flaming fire burn,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>If that we don't repent with ſpeed,</hi>
+                  </l>
+                  <l>
+                     <hi>For ſure, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Nations round us bleeding lye,</l>
+               <l>the ſword is drawn and thouſands ſlain,</l>
+               <pb n="14" facs="tcp:35794:10"/>
+               <l> And none but our great God on high,</l>
+               <l>knows when it will be ſheath'd again;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>O let us then Repent with ſpeed,</hi>
+                  </l>
+                  <l>
+                     <hi>For ſure, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>If we our ſins would waſh away,</l>
+               <l>by ſhowers of true Repenting tears,</l>
+               <l>And ſtrive Gods Precepts to obey,</l>
+               <l>he ſoon will expiate our fears;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then let us all Repent with ſpeed,</hi>
+                  </l>
+                  <l>
+                     <hi>For ſure we never had more need.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <trailer>FJNJS.</trailer>
+            <pb facs="tcp:35794:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
